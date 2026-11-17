@@ -49,3 +49,5 @@ events.out.tfevents.*
 /reports/
 /references/
 /setup-logs/
+env/
+output/
